@@ -1,8 +1,13 @@
 # flutter_device_unlock
 
+####  device_unlock: ^1.1.2
+
+
 ![Screenshot_20210308-162054_Settings](https://user-images.githubusercontent.com/40735538/110311943-77b0f680-802a-11eb-8aad-e4d1ff7e77e6.jpg)
 
 A new Flutter Device Unlock.
+
+
 
 ## Getting Started
 
